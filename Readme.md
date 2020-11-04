@@ -1,7 +1,7 @@
 ###Business Website Design
-![Webview](img3.png)
-![Mobileview1](img1.png)
-![Mobileview2](img2.png)
+![Webview](img1.png)
+![Mobileview1](img2.png)
+![Mobileview2](img3.png)
 
 ###Implementation
 -This is a responsive website built using HTML5 and CSS3 for a mock Web Design Organization.
